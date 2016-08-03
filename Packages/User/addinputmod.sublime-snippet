@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+		addInputMod("EXTThemeWeek","第几期");
+]]></content>
+</snippet>

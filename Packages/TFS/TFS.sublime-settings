@@ -1,0 +1,10 @@
+{
+	// Copy any modified settings to `User/Emmet.sublime-settings`
+	// otherwise modifications will not survive updates.
+
+	// Path to folder where Emmet should look for extensions
+	// http://docs.emmet.io/customization/
+	"projectRoot": "E:\\projectA",
+	"TFRoot":"C:\\Program Files\\Microsoft Visual Studio 10.0\\Common7\\IDE",
+	"userName":"huangguangyao"
+}

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[
+<object id="${1:name}" type="application/x-shockwave-flash" data="${2:flashURL}" class="${1:name}"><param name="wmode" value="transparent"><param name="movie" value="${2:flashURL}"><param name="quality" value="high"><param name="menu" value="false"><param name="allowScriptAccess" value="always"><param name="flashvars" value="${3:flashVAR}"><embed src="${2:flashURL}" name="${1:name}" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#FFFFFF" flashvars="${3:flashVAR}" scale="noborder" class="${1:name}" wmode="transparent"></object>
+]]></content>
+</snippet>

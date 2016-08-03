@@ -1,0 +1,18 @@
+[
+    { "caption": "-", "id": "TFS" },
+    { "command":"check_out","caption":"checkOut"},
+    { "command":"myhistory","caption":"getMyHistoryByDate"},
+    { "command":"allhistory","caption":"getAllHistoryByDate"},
+    { "command":"check_in","caption":"checkIn(noUse)"},
+    { "command":"tfs_one","caption":"undo","args":{"itype":"undo","iarg":""}},
+    { "command":"history","caption":"history"},
+    { "command":"get","caption":"get"},
+    { "command":"check_out_all","caption":"checkout all Tab"},
+	{ "command":"add_to_tfs","caption":"add this file"},
+    { "caption": "-", "id": "tfsoutside"},
+    { "command":"tfs_one","caption":"checkIn outSide","args":{"itype":"checkin","iarg":""}},
+    { "command":"tfs_one","caption":"history outSide","args":{"itype":"history","iarg":""}},
+    { "command":"tfs_one","caption":"compare to latestServerVersion","args":{"itype":"difference","iarg":""}},
+    { "command":"tfs_one","caption":"del this file","args":{"itype":"delete","iarg":""}},
+    { "caption": "-", "id": "end" }
+]

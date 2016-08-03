@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+function(${1:data}){
+	${2:console.log("helloXCallback")}
+}
+]]></content>
+</snippet>

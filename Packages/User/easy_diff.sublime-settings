@@ -1,0 +1,31 @@
+{
+     // Turn off svn completely
+    "svn_disabled": true,
+
+    // Turn off git completely
+    "git_disabled": true,
+
+    // Turn off (Mercurial) hg completely
+    "hg_disabled": true,
+
+    // Turn off svn menu access
+    "svn_hide_menu": true,
+     // Turn off git completely
+    "git_disabled": true,
+
+    // Turn off (Mercurial) hg completely
+    "hg_disabled": true,
+
+    // Turn off svn menu access
+    "svn_hide_menu": true,
+
+    // Turn off git menu access
+    "git_hide_menu": true,
+
+    // Turn off (Mercurial) hg menu access
+    "hg_hide_menu": true,
+    "quick_panel_commands": true,
+
+    // Enable manual "set left side" and "compare" commands in the panel
+    "quick_panel_left_right_commands": true
+}

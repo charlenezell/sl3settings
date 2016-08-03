@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/addyosmani/sublime-fixmyjs", "dependencies": [], "sublime_text": "*", "version": "0.3.4", "description": "SublimeText package for FixMyJS"}

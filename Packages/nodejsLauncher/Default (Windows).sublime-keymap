@@ -1,0 +1,11 @@
+[{
+  "keys": [
+    "ctrl+k","ctrl+r"
+  ],
+  "command": "nodelauncher"
+},{
+  "keys": [
+    "ctrl+k","ctrl+d"
+  ],
+  "command": "nodelauncherdebug"
+}]

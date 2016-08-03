@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+		addUploadMod("EXTThemeCoverImg","主题小图");
+]]></content>
+</snippet>

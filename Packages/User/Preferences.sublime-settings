@@ -1,0 +1,110 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_selector": "source, comment, text.plain, meta.tag, punctuation.definition.tag.begin, css",
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/D/oldf/zellsprite/node_modules/**",
+		"node_modules/**"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"font_face": "YaHei Consolas Hybrid",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"AppleScript",
+		"ASP",
+		"Auto Refresh",
+		"C#",
+		"C++",
+		"Clojure",
+		"ColorPicker",
+		"Command Help",
+		"D",
+		"Erlang",
+		"FuzzyFilePath",
+		"Go",
+		"Groovy",
+		"Gutter Color",
+		"Haskell",
+		"HTML5",
+		"JSHint",
+		"Markdown",
+		"Material Theme - Appbar",
+		"Package Syncing",
+		"PackageSync",
+		"PHP",
+		"SCSS Snippets",
+		"Web Inspector"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"E:\\projectA\\source\\web\\resource\\qq\\gwActivity\\20150814\\dest*",
+		"*.log"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_accent_indigo": true,
+	"material_theme_accent_lime": false,
+	"material_theme_accent_yellow": false,
+	"material_theme_bold_tab": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_fileicons": false,
+	"material_theme_disable_folder_animation": false,
+	"material_theme_disable_tree_indicator": false,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		100,
+		120
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_highlights_color_scope_name": "wordhighlight",
+	"word_highlights_draw_outlined": false,
+	"word_highlights_when_selection_is_empty": true,
+	"word_separators": "./\\()\"':,.;<>~!#%^&*|+=[]{}`~?",
+	"wrap_width": 0
+}

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+    <!--[if lte IE 7]><![endif]-->
+		<!--[if (gt IE 5)&(lt IE 7)]><![endif]-->
+]]></content>
+</snippet>
