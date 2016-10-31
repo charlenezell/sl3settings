@@ -1,1 +1,1 @@
-{"dependencies": [], "platforms": ["*"], "url": "https://github.com/NicoSantangelo/sublime-gulp", "version": "5.4.0", "sublime_text": "*", "description": "Run Gulp tasks and snippets from Sublime Text"}
+{"sublime_text": "*", "version": "6.0.1", "url": "https://github.com/NicoSantangelo/sublime-gulp", "platforms": ["*"], "description": "Run Gulp tasks and snippets from Sublime Text", "dependencies": []}

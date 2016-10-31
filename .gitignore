@@ -6,3 +6,13 @@ Installed Packages
 node_modules
 KEEPME
 sublimeBookmarks.pickle
+*.png
+*.txt
+*.ts
+*.log
+*.cache
+*.css
+*.html
+*.build
+*.md
+*.js
