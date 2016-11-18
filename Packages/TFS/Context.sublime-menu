@@ -14,5 +14,6 @@
     { "command":"tfs_one","caption":"history outSide","args":{"itype":"history","iarg":""}},
     { "command":"tfs_one","caption":"compare to latestServerVersion","args":{"itype":"difference","iarg":""}},
     { "command":"tfs_one","caption":"del this file","args":{"itype":"delete","iarg":""}},
+    { "command":"open_files_from_active_editor","caption":"Open Files From Active Editor"},
     { "caption": "-", "id": "end" }
 ]
